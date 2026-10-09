@@ -58,22 +58,3 @@ Run the local development server:
 ```bash
 php artisan serve
 ```
-
-Open your browser and navigate to: `http://127.0.0`
-
----
-
-## 📂 Project Structure Snippet | ساختار فایل‌های کلیدی پروژه
-
-- **Route:** `routes/web.php` ➔ Maps the URL `/courses` to the controller.
-- **Controller:** `app/Http/Controllers/CourseController.php` ➔ Handles data array processing and view injection.
-- **Views:**
-    - `resources/views/layouts/app.blade.php` ➔ The main master layout.
-    - `resources/views/courses.blade.php` ➔ The course grid view using Blade `@foreach` loop.
-
----
-
-## 🤝 Contributing | مشارکت در پروژه
-
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
-مشارکت در بهبود این پروژه کاملاً آزاد است. در صورت تمایل می‌توانید Pull Request بفرستید.

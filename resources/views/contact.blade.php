@@ -5,7 +5,7 @@
 @section('content')
 
    
-    <main id="contact-page" class="page">
+    <div id="contact-page" class="page">
         <section style="padding: 3rem 0;">
             <h2 class="section-title">ارتباط با ما</h2>
             <div class="contact-container">
@@ -53,7 +53,7 @@
                 </div>
             </div>
         </section>
-    </main>
+    </div>
 
 @endsection
    

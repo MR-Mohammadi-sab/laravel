@@ -32,8 +32,7 @@ Follow these simple steps to run this project locally on your machine:
 ### 1. Clone the repository | کلون کردن مخزن
 
 ```bash
-git clone https://github.com
-cd YOUR_REPO_NAME
+git clone https://github.com/MR-Mohammadi-sab/laravel.git
 ```
 
 ### 2. Install dependencies | نصب نیازمندی‌ها
